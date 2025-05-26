@@ -1,8 +1,10 @@
 # 🎧 Projeto Spotify Clone
 
-Este projeto é uma interface inspirada no Spotify, desenvolvida durante uma imersão de programação, utilizando React, HTML, CSS e JavaScript. O foco foi recriar a plataforma do Spotify, explorando a criação de componentes, responsividade e interações visuais.
+Este projeto é uma interface inspirada no Spotify, desenvolvida durante uma imersão de programação, utilizando React, Node.js e MongoDB. O foco foi recriar a plataforma do Spotify, explorando a criação de componentes, responsividade e interações visuais.
 
 ## 🚀 Tecnologias Utilizadas
+
+### 💻 Front-end
 
 React
 
@@ -12,9 +14,19 @@ CSS3
 
 JavaScript
 
+JSX
+
 Font Awesome (ícones)
 
-Google Fonts
+### 🔧 Back-end
+
+Node.js
+
+Express
+
+MongoDB
+
+Mongoose
 
 ## 🎨 Funcionalidades
 Interface visual semelhante ao Spotify Web
